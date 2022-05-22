@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-12-13 14:30:00-0400
+date: 2020-04-16 18:0:00-0400
 inline: true
 ---
 
-Gave a talk on *Ensembles of Many Diverse Weak Defenses can be Strong* in the seminar of department of Computing Science and Engineering at University of South Carolina..
+Passed the PhD qualify exam. emoji! :sparkles: :smile:
